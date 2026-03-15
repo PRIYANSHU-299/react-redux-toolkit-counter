@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(20, 122, 211);
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+}
+
+h1{
+  font-size: 50px;
+  padding: 10px 20px;
+}
+button,input{
+  padding: 10px 20px;
+  margin: 20px;
+  background:white;
+  
+}
